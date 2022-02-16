@@ -17,7 +17,7 @@ Regus, Mr_Lamppost, CgAlpha, jakaboxjumping, Cebbi, jkon, HellGate, mherpin, ser
 champignondobrasil, sizzler, Wooxen, lklleb, Mikel007, TowerCG, blenderdiplom.com, dingto, Kaluura, brecht,
 Conner Addison, agus3d, 19seanak19, neon15, budip, jenov, Substance_Painter, Bartek Skorupa, BlenderNerd, MmAaXx,
 meta-androcto, mib2berlin, kellpossible, monsterdog, Jonathon L, elbrujodelatribu, lubomircenovsky, wesdevs,
-ace dragon, naibot, gwenouille, NRK, Agus, dimistic, broadstu, gexwing, const, moony, enzyme69, enzyme69, JuanJosé Torres, Greg Zaal, sambler.
+ace dragon, naibot, gwenouille, NRK, Agus, dimistic, broadstu, gexwing, const, moony, enzyme69, enzyme69, JuanJosÃ© Torres, Greg Zaal, sambler.
 Materials from sites:
 blender diplom, blender nation materials section, blend swap, blender artists forums, git hub & anyone I've forgotten, let me know, I'll add you.
 
